@@ -221,13 +221,13 @@ ul li {
 @media( max-width: 960px) {
 	.container {
 		min-width: auto;
-		background: olivedrab;
-		color: peachpuff;
+		background: #285040;;
+		color:  #285040;;
 	}
 	.container1 {
 	  min-width: auto;
-	  background: olivedrab;
-	  color: peachpuff;
+	  background: #285040;;
+	  color:  #285040;;
 
 	}
 	.addNew{
@@ -289,17 +289,17 @@ ul li {
 @media( max-width: 480px) {
     .container {
 		min-width: auto;
-		background: blue;
-		color: peachpuff;
+		background:  #285040;;
+		color:  #285040;;
 	}
 	.container1 {
 	  min-width: auto;
-	  background: blue;
-	  color: peachpuff;
+	  background:  #285040;
+	  color:  #285040;;
 
 	}
 	.addNew{
-		background: blue;
+		background: #285040;;
 		display: block;
 		/* margin-top: 10px;
 		padding: 20px;
@@ -311,7 +311,7 @@ ul li {
 		text-align: center; */
 	}
 	.addNew2{
-		background: blue;
+		background:  #285040;;
 		display: block;
 		/* margin-top: -65px;
 		padding: 20px;
@@ -325,7 +325,7 @@ ul li {
 		text-align: center; */
 	}
 	.addNew1{
-		background: blue;
+		background:  #285040;;
 		display: block;
 		/* margin-top: 10px;
 		padding: 20px;
@@ -338,7 +338,7 @@ ul li {
 		margin-left: 10px; */
 	}
 	.addNew3{
-		background: blue;
+		background:  #285040;;
 		display: block;
 		/* margin-top: -65px;
 		padding: 20px;
@@ -355,7 +355,7 @@ ul li {
 	.box{
 		min-height: 250px;
 		min-width: 100%;
-		background: purple;
+		background: white;
 	}  
 	 
 }
